@@ -1,0 +1,28 @@
+h1{
+    margin-top: 30px;
+    margin-bottom: 26px;
+    font-family: 'Sriracha', cursive;
+    color: rgb(253, 215, 224);
+}
+button, input {
+    cursor: pointer;
+    height: 30px;
+    border-color: rgb(255, 129, 198);
+  
+
+}
+
+button{
+    color: rgb(255, 134, 154) ;
+    border-radius: 44%;
+}
+
+html{
+    background-color: rgb(216, 129, 129);
+    
+}
+li{
+    color: whitesmoke;
+    font-size: 25px;
+    font-family: 'Sriracha', cursive;
+}
